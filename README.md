@@ -12,7 +12,7 @@ An Ecommerce solution to sell Tshirts and various other merchandise based on dif
 * 👉 Built on Wordpress
 
 ## Check us Out
-The link to our official website [HodlMyTees](https://hodlmytees.com)
+The link to official website [HodlMyTees](https://hodlmytees.com)
 
 ## Contributing 🤝
 We apologise but you can't contribute publicly to this project 😭. Keep an eye out though! Who knows, we might open an opportunity later on! 🤩
